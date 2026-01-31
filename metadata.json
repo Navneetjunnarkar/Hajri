@@ -1,0 +1,7 @@
+{
+  "name": "Copy of HAJRI - Financial Literacy Game",
+  "description": "A voice-first narrative-driven financial literacy game designed for rural and low-resource settings. Learn the impact of financial choices through emotional storytelling and multi-year consequence trees.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
